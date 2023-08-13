@@ -1,0 +1,20 @@
+ :root{
+    --red:crimson;
+    --green:#53BF9D;
+    --yellow:#FFC54D;
+    --white:whitesmoke;
+ }
+ body {
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .landing
+{
+    display: flex;
+    background-image:url('spicy1.jpg ');
+    background-size:cover;
+    background-position:center;
+    height: 100vh;
+}
+
+
